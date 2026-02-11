@@ -31,7 +31,7 @@
         background-position:center;
         background-size:cover;
         background-repeat:no repeat;
-        background-attchment:fixed;
+        background-attachment:fixed;
         }
         .pimg1{
             background-image:url('download\ \(1\).jpeg');
@@ -89,3 +89,12 @@
             background-attachment:scroll;
         }
     }
+.footer{
+    position: fixed;
+    left:0;
+    bottom:0;
+    width:100%;
+    background-color:black;
+    color:white;
+    text-align:center;
+}
